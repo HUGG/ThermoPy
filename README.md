@@ -29,5 +29,5 @@ To use thermopy in your code:
 
 ## Copyright
 
-- Copyright © 2025 David Whipp.
+- Copyright © 2025 Willy Guenthner and David Whipp.
 - Free software distributed under the [MIT License](./LICENSE).
