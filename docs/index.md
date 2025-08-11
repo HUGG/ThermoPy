@@ -6,9 +6,8 @@ Thermochronometer age prediction and data processing library
 
 [API Documentation](./api/modules.rst)
 
-## Copyright
+## License
 
-- Copyright © 2025 Willy Guenthner and David Whipp.
 - Free software distributed under the MIT License.
 
 ```{toctree}

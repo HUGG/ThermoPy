@@ -21,7 +21,8 @@ master_doc = "index"
 
 # General information about the project.
 project = "ThermochronLib"
-copyright = "Copyright © 2025 Willy Guenthner and David Whipp"
+author = "Willy Guenthner and David Whipp"
+copyright = "2025"
 html_show_sphinx = False
 
 # The version info for the project you're documenting, acts as replacement for
