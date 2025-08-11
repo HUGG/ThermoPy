@@ -9,6 +9,7 @@ import importlib.metadata
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
 extensions = [
     "myst_parser",
+    "numpydoc",
     "sphinx.ext.intersphinx",
     "sphinx.ext.autodoc",
 ]
