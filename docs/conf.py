@@ -1,5 +1,5 @@
 #
-# thermopy documentation build configuration file
+# thermochronlib documentation build configuration file
 #
 import importlib.metadata
 
@@ -20,15 +20,15 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = "thermopy"
-copyright = "Copyright © 2025 David Whipp"
+project = "ThermochronLib"
+copyright = "Copyright © 2025 Willy Guenthner and David Whipp"
 html_show_sphinx = False
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
 # built documents.
 try:
-    version = importlib.metadata.version("thermopy")
+    version = importlib.metadata.version("thermochronlib")
 except importlib.metadata.PackageNotFoundError:
     version = "0.0.0"
 
@@ -49,7 +49,7 @@ myst_enable_extensions = ["html_image"]
 
 # -- Options for HTML output ---------------------------------------------------
 
-html_theme = "pydata_sphinx_theme"
+html_theme = "sphinx_book_theme"
 
 # The name for this set of Sphinx documents.  If None, it defaults to
 # "<project> v<release> documentation".
@@ -91,7 +91,7 @@ html_theme = "pydata_sphinx_theme"
 # html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = "thermopy_doc"
+htmlhelp_basename = "thermochronlib_doc"
 
 
 intersphinx_mapping = {

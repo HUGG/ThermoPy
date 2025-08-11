@@ -1,4 +1,4 @@
-# thermopy
+# ThermochronLib
 
 ## Overview
 
@@ -8,7 +8,7 @@ Thermochronometer age prediction and data processing library
 
 ## Copyright
 
-- Copyright © 2025 David Whipp.
+- Copyright © 2025 Willy Guenthner and David Whipp.
 - Free software distributed under the MIT License.
 
 ```{toctree}

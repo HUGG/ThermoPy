@@ -1,30 +1,30 @@
-# Welcome to thermopy
+# Welcome to ThermochronLib
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/thermopy.svg)](https://pypi.org/project/thermopy/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/thermopy.svg)](https://pypi.org/project/thermopy/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/thermochronlib.svg)](https://pypi.org/project/thermochronlib/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/thermochronlib.svg)](https://pypi.org/project/thermochronlib/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 *TODO: the above badges that indicate python version and package version will only work if your package is on PyPI.
 If you don't plan to publish to PyPI, you can remove them.*
 
-thermopy is a project that (describe what it does here).
+ThermochronLib is a project that (describe what it does here).
 
 ## Get started
 
 You can install this package into your preferred Python environment using pip:
 
 ```bash
-$ pip install thermopy
+$ pip install thermochronlib
 ```
 
 TODO: Add a brief example of how to use the package to this section
 
-To use thermopy in your code:
+To use thermochronlib in your code:
 
 ```python
->>> import thermopy
->>> thermopy.hello_world()
+>>> import thermochronlib
+>>> thermochronlib.hello_world()
 ```
 
 ## Copyright
